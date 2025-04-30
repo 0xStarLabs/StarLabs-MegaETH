@@ -1,4 +1,7 @@
 @echo off
+
+title MegaETH Bot
+
 echo Checking virtual environment...
 
 if not exist venv (
